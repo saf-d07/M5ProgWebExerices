@@ -63,6 +63,7 @@ krijg je een fouten? mooi! dan werkt het
 - pas index.php aan, en select daar alles uit test
 - check wat er gebeurt!
 
-## klaar
 
-- commit & push nu alles naar je repository! 
+## git
+
+commit naar je git repository voor de vak!

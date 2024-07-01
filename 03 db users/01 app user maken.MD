@@ -85,3 +85,7 @@ in mysql workbench heb je 2 tabs in de `navigator`:
 - open de index.php
 > ![](img/werkt.PNG)
 
+
+## klaar
+
+ga naar de volgende opdacht

@@ -45,6 +45,7 @@ maar hoe doen we dat?
     > ![](img/fout.PNG)
 
 
-## klaar
 
-- commit & push nu alles naar je repository! 
+## git
+
+commit naar je git repository voor de vak!

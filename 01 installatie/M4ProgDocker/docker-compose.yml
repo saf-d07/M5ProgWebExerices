@@ -23,7 +23,7 @@ services:
       - php
   # MariaDB Service
   mariadb:
-    image: mariadb:latest
+    image: mysql:latest
     environment:
       MYSQL_DATABASE: m4prog
       MYSQL_USER: m4proggebruiker
