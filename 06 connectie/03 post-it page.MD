@@ -11,10 +11,10 @@ het eind resultaat moet zijn dat de klant post its kan maken, verwijderen en edi
 
 dat is veel werk dus voor deze eerste sprint hebben wij de volgende taken:
 - database design maken
+- test post its in de database zetten
 - het database script opslaan
 
 - post it pagina maken met php
-- test post its in de database zetten
 - zorgen dat de post its netjes op het scherm komen
 
 ```
