@@ -21,7 +21,7 @@ maar hoe doen we dat?
 
 - VOORDAT je commit, maak je een `.gitignore` file
 - in de .gitignore file zet je `.env` 
-<br>![](img/ignore.PNG)
+>![](img/ignore.PNG)
 > Tip het is handig om standaard .gitignore files te bewaren en het aan te leren die eerst in je project te zetten voordat je begint
 
 ## TEST

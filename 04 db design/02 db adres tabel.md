@@ -14,9 +14,36 @@ we gaan een table maken waar een adres in opgeslagen kan worden
 - maak met `mysql workbench` een nieuw diagram
 >![](img/newdia.PNG)
 
-- noem het diagram:
+### database target
+
+- lees het volgende:
+```
+standaard heet de schema mydb
+dat is niet nuttig die hebben wij niet
+dus moeten we het schema hernoemen
+```
+- click op mydb
+>![](img/schemaname.PNG)
+- verander mydb in 
+    - m5prog
+
+### controle
+
+- check of je nu dit hebt:
+>![](img/schemaname2.PNG)
+
+### diagram hernoemen
+
+- hernoem nu het diagram naar:
     - persoonsite
-- open het diagram
+    >![](img/rename.PNG)
+
+- controller of je nu dit hebt:
+>![](img/diagramnameresult.PNG)
+
+### tabellen
+
+- open het diagram (dubbel click)
 - maak een nieuwe table:
     - adres
 - open de table zodat je colommen kan toevoegen
