@@ -12,7 +12,7 @@ laten we daar het gevaar ook testen
 
 ## stap 1
 
-- lees dit:
+- lees het volgende:
 ```
 we gaan de mysql query uitvoering nu aanpassen naar `multi_statements`
 * https://www.php.net/manual/en/mysqli.quickstart.multiple-statement.php
@@ -22,7 +22,7 @@ we gaan de mysql query uitvoering nu aanpassen naar `multi_statements`
 
 ## hacken
 
-- lees dit:
+- lees het volgende:
 ```
 nu gaan we 'hacken', als we de volgende url gebruiken:
 * http://localhost:88/multistatement.php?search=mario or naam like 'sonic`
@@ -39,7 +39,7 @@ maar we kunnen nog meer omdat we nu een `multi_statements` hebben:
 
 ## Notes
 
-- lees dit:
+- lees het volgende:
 ```
 * een prepared statement kan geen multi query zijn
 * als je een multi statement nodig hebt => neem `geen` user input aan. 

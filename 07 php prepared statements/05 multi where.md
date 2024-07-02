@@ -12,7 +12,7 @@
 
 ## prepared statement uitbreiden
 
-- lees dit:
+- lees het volgende:
 ```
 nu hebben we 2 where argumenten. Dus de prepared statement werkt niet meer
 hoe passen we dat aan?
