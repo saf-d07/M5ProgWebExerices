@@ -46,7 +46,7 @@ krijg je geen fouten? mooi! dan werkt het
 als het goed is mogen we nu niet meer selecteren
 - select alles van de table `test`
 
-krijg je een fouten? mooi! dan werkt het
+krijg je een fout? mooi! dan werkt het
 - maak een screenshot van het resultaat
     - sla deze op onder je M5ProgWebC24 map
         - met de naam `02 appusertest nope.png`
