@@ -7,6 +7,9 @@ We gaan nu onze ontwikkelomgeving inrichten. Docker hebben jullie al, wat wij no
 
 - https://dev.mysql.com/downloads/workbench/ `workbench`
 
+>![](img/download.PNG)
+
+
 * !!! je hoeft niet in te loggen zoek `no thanks just start my download`
 
 >![](img/nothanks.PNG)
