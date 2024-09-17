@@ -51,13 +51,15 @@ krijg je een fouten? mooi! dan werkt het
 
 ## herstellen van de rechten
 
-- verander de rechten terug naar:
+- geef meer rechten:
     - select
     - delete
     - insert
     - update
     - execute
-
+    >![](img/grantssql.PNG)
+    - zie je die ???grants??? daar kan je de rechten invullen
+        > scheid ze met kommas!
 ## extra:
 
 - pas index.php aan, en select daar alles uit test

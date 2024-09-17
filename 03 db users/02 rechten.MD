@@ -15,27 +15,33 @@
 >![](img/users.PNG)
 
 
-#### privileges aanpassen
+#### privileges aanpassen met sql 
 
-- click op de `schema privileges` tab
-> ![](img/newuser.PNG)
-- hier staat een `Add Entry ...` knop click daarop
-- in de popup selecteren we `Alleen` ons schema
-> ![](img/selschema.PNG)
+> helaas de userinterface werkt niet meer, dus even via sql
+
+- lees de sql hieronder:
+    >![](img/grantssql.PNG)
+    - zie je die ???grants??? daar kan je de rechten invullen
+
+- maak een connectie met je docker via workbench
+    - click op de `+sql` knop
+        > ![](img/newsql.PNG)
+        - type de sql over en:
+            - vervang ???grants??? met select
 
 - lees deze uitleg:
 ```
-* dit is omdat deze user alleen voor `1 app` is en dus geen rechten nodig heeft op de database of andere schemas. Dit is het `least privilidge` principe: alleen wat je minimaal nodig hebt niets meer
+* dit is omdat deze user alleen voor `1 app` is en dus geen rechten nodig heeft op de database of andere schemas. Dit is het `least priviledge` principe: alleen wat je minimaal nodig hebt niets meer
 
-```
-## rechten 
-- Vink in `object rights` alleen `select`
 - meer hebben we niet nodig, maar gebruikelijk voor een app is:
     - select
     - delete
     - insert
     - update
     - execute
+
+```
+
 - lees deze uitleg:
 ```
 * mogelijk dat je dus voor 1 app meerdere users hebt, afhankelijk van de rollen binnen de app bv:
