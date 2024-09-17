@@ -16,7 +16,7 @@ we gaan nu kijken of de rechten kloppen
 ## inloggen met de gebruiker
 
 - ga naar de home tab (het huisje)
-- click de `+` en vul je `m5progweb` gebruiker in
+- click de `+` en vul je `m5progphp` gebruiker in
 - test de connectie
 - open nu de connectie
 
@@ -35,8 +35,11 @@ krijg je geen fouten? mooi! dan werkt het
 
 - maak een nieuwe connection maar dan met `M5ProgDocker`
 > elke tab die opend heeft zijn eigen connection en dus eigen rechten!
-- open de gebruiker `m5progweb`
-- verander de rechten naar alleen `insert`
+- open de gebruiker `m5progphp`
+- geef de gebruiker nu een `insert` (gebruik weer grant)
+- haal nu select weg dat doe je met een revoke:
+> ![](img/revoke.PNG)
+
 
 ## select
 
