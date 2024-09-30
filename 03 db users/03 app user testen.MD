@@ -17,6 +17,7 @@ we gaan nu kijken of de rechten kloppen
 
 - ga naar de home tab (het huisje)
 - click de `+` en vul je `m5progphp` gebruiker in
+- zet de poort op 3308
 - test de connectie
 - open nu de connectie
 
