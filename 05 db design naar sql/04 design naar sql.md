@@ -57,7 +57,7 @@ Om van jou diagram sql te maken gebruiken we de feature `forward engineer`
 
 ## opnieuw uitrollen
 
-- probeer nu de sql file die je eerder bewaard te gebruiken om de database opnieuw te maken
+- probeer nu de sql file, die je eerder bewaard hebt, te gebruiken om de database opnieuw te maken
 
 
 ## conclusie
