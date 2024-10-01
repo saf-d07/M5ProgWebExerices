@@ -34,10 +34,10 @@ krijg je geen fouten? mooi! dan werkt het
 
 ## Admin
 
-- maak een nieuwe connection maar dan met `M5ProgDocker`
+- maak een nieuwe connection maar dan met root naar je docker
 > elke tab die opend heeft zijn eigen connection en dus eigen rechten!
-- open de gebruiker `m5progphp`
-- geef de gebruiker nu een `insert` (gebruik weer grant)
+
+- geef de gebruiker `m5progphp` nu een `insert` (gebruik weer grant)
 - haal nu select weg dat doe je met een revoke:
 > ![](img/revoke.PNG)
 
