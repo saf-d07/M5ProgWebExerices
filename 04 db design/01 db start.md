@@ -9,7 +9,7 @@ maar we moeten ook inleveren, daar moet een plekje voor komen
 
 maak in je map van dit vak  een nieuwe map aan:
 - `Db opdrachten`
-- maak een tekstfile `03 notities.txt` in de map `Db opdrachten`
+- maak een tekstfile `03 notities.md` in de map `Db opdrachten`
 
 
 ## git

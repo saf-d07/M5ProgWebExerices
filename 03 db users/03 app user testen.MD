@@ -11,7 +11,7 @@ we gaan nu kijken of de rechten kloppen
 
 - maak in `m5prog` een table `test`
 - geef deze 1 colomn
->![](img/table.PNG)
+    >![](img/table.PNG)
 
 ## inloggen met de gebruiker
 
@@ -28,18 +28,18 @@ als het goed is mogen we selecteren
 
 krijg je geen fouten? mooi! dan werkt het
 - maak een screenshot van het resultaat
-    - sla deze op onder je M5ProgWebC24 map
+    - sla deze op onder je M5ProgWeb map
         - met de naam `02 appusertest.png`
 
 
 ## Admin
 
 - maak een nieuwe connection maar dan met root naar je docker
-> elke tab die opend heeft zijn eigen connection en dus eigen rechten!
+    > elke tab die opend heeft zijn eigen connection en dus eigen rechten!
 
 - geef de gebruiker `m5progphp` nu een `insert` (gebruik weer grant)
 - haal nu select weg dat doe je met een revoke:
-> ![](img/revoke.PNG)
+    > ![](img/revoke.PNG)
 
 
 ## select
@@ -49,7 +49,7 @@ als het goed is mogen we nu niet meer selecteren
 
 krijg je een fout? mooi! dan werkt het
 - maak een screenshot van het resultaat
-    - sla deze op onder je M5ProgWebC24 map
+    - sla deze op onder je M5ProgWeb map
         - met de naam `02 appusertest nope.png`
 
 
@@ -61,7 +61,7 @@ krijg je een fout? mooi! dan werkt het
     - insert
     - update
     - execute
-    >![](img/grantssql.PNG)
+        >![](img/grantssql.PNG)
     - zie je die ???grants??? daar kan je de rechten invullen
         > scheid ze met kommas!
 ## extra:

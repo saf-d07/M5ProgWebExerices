@@ -2,18 +2,19 @@
 ## directories maken
 
 - ga naar je school directory
-- maak daar een M5ProgWebC24 map aan
+- maak daar een M5ProgWeb map aan
 
->![](img/mapstart.PNG)
+    >![](img/mapstart.PNG)
 
 
 ## opdrachten clonen
 
-- open een commandprompt in de M5ProgWebC24 map
->![](img/mapstart.PNG)
+- open een commandprompt in de M5ProgWeb map
+    >![](img/mapstart.PNG)
 
-- ga naar https://github.com/progsen/M5ProgWebC24
-- clone nu deze repository met opdrachten 
+- ga naar:
+    - https://github.com/progsen/M5ProgWebExerices
+    - clone nu deze repository met opdrachten 
 
 ## klaar
 

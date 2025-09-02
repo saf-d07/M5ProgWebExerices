@@ -5,11 +5,11 @@
     - `gameraccount`
 
 - lees de volgende tip:
-```
-Let op
-* relaties tussen tables.
-* dat je genoeg eigenschappen hebt voor elke table
-```
+    ```
+    Let op
+    * relaties tussen tables.
+    * dat je genoeg eigenschappen hebt voor elke table
+    ```
 
 - design een database met het volgende in gedachte:
     - een gamer heeft eigenschappen zoals een `username`

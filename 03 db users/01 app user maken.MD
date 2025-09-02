@@ -23,15 +23,15 @@ in mysql workbench heb je 2 tabs in de `navigator`:
 - administration
 - schemas
 - click op de administration tab
-> ![](img/tabs.PNG)
+    > ![](img/tabs.PNG)
 
 ## Rechten check
 
 - click op `users and privileges`
 
->![](img/users.PNG)
+    >![](img/users.PNG)
 - click de m5proggebruiker aan
-> ![](img/veelpriv.PNG)
+    > ![](img/veelpriv.PNG)
 
 ## nieuwe gebruiker maken, voorbereiding
 
@@ -39,26 +39,26 @@ in mysql workbench heb je 2 tabs in de `navigator`:
 - pas de gebruiker aan:
     - noem deze `m5progphp`
 - pas het wachtwoord aan
-> Mijn voorbeeld:  
-> ![](img/phpuser.PNG)
+    > Mijn voorbeeld:  
+    > ![](img/phpuser.PNG)
 
 ## nieuwe gebruiker maken
 
 - in je workbench:
 - click op de `+sql` knop
-> ![](img/newsql.PNG)
+    > ![](img/newsql.PNG)
 
 - lees deze uitleg:
-```
-- we gaan nu een gebruiken met SQL aan maken
-    > (helaas werkt het via de user interface niet meer)
-```
+    ```
+    - we gaan nu een gebruiken met SQL aan maken
+        > (helaas werkt het via de user interface niet meer)
+    ```
 - type de volgende sql in je nieuwe sql window:
-    > ![](img/newusersql.PNG)
+        > ![](img/newusersql.PNG)
     - vervang ???USER??? met de user in je .env (onder html)
     - vervang ???PASSWORD??? met de password in je .env (onder html)
     - druk op de bliksem schicht
-    > ![](img/bliksum.PNG)
+        > ![](img/bliksum.PNG)
 
 
 

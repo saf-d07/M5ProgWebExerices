@@ -27,7 +27,7 @@ maar hoe doen we dat?
 ## TEST
 
 >![](img/mapstart.PNG)
-- ga in je commandprompt/terminal naar de directory `M5ProgWebC24`
+- ga in je commandprompt/terminal naar de directory `M5ProgWeb`
     > dus waar `.env` en `.env_template` in staan
 - type in: 
     - git add

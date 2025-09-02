@@ -2,19 +2,21 @@
 
 - ga naar github
 - maak een nieuwe repository met de naam:
-    - M5ProgWebC24
+    - M5ProgWeb
+
 
 ## opdrachten clonen
 
-- open een commandprompt in de M5ProgWebC24 map
->![](img/mapstart.PNG)
+- open een commandprompt in de M5ProgWeb map
+    >![](img/mapstart.PNG)
 
-## naar je laptop
+- clone nu je eigen repository M5ProgWeb
 
-- clone je M5ProgWebC24 naar je laptop
-- check of je dit hebt *(ZONDER de MD files van het plaatje)*:
->![](img/mappen.PNG)
-- open de M5ProgWebC24 directory in visual studio code
+
+## check
+
+- als het goed is heb je dit, ZONDER de md files in het plaatje
+    >![](img/mappen.PNG)
 
 ## NIET COMMITTEN
 

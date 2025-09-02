@@ -52,7 +52,7 @@ dus moeten we het schema hernoemen
 
 - lees deze uitleg:
 ```
-* als er `schrijf op` staat hieronder. Doe dat in een tekstfile `03 notities.txt` die je gemaakt had
+* als er `schrijf op` staat hieronder. Doe dat in een tekstfile `03 notities.md` die je gemaakt had
 ```
 - zoek het adres van een bedrijf uit nederland op
 - schrijf op uit welke:
@@ -73,7 +73,7 @@ dus moeten we het schema hernoemen
     - `unsigned` 
     - `unique`
 - denk even na waarom we dit doen
-    - schrijf dat op in `03 notities.txt`
+    - schrijf dat op in `03 notities.md`
 - maak nu colommen aan voor alle variable die je hebt bedacht in stap  `wat zit er in?`
 - kies het juiste datatype 
 - vink voor alle colommen het volgende aan:
