@@ -6,18 +6,18 @@
 
 - start de reverse engineer wizard
 - probeer deze zelf uit
-> ![](img/selectschema.PNG)
+    > ![](img/selectschema.PNG)
 - zorg ervoor dat je een diagram hebt aan het eind
 - sla het diagram op en maak een screenshot
-> ![](img/diagram.PNG)
+    > ![](img/diagram.PNG)
 
 ## data
 
 - lees deze uitleg:
-```
-Vaak als je ontwikkeld heb je data die nodig is. Denk bijvoorbeeld aan 
-categorieen, of product types. Die data is nodig als `initieele` data, zonder die data werkt er niets.
-```
+    ```
+    Vaak als je ontwikkeld heb je data die nodig is. Denk bijvoorbeeld aan 
+    categorieen, of product types. Die data is nodig als `initieele` data, zonder die data werkt er niets.
+    ```
 - Vul jouw bordspel tabel nu met wat data.
 
 ## data export
