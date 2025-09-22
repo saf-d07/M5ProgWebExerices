@@ -10,8 +10,7 @@ we gaan een table maken waar een persoon in opgeslagen kan worden
 
 
 ### start
-- ga verder in het vorige diagram uit 02 db adres tabel
-- noem het diagram `persoonsite`
+- ga verder in het vorige diagram uit 02 db adres tabel (`persoonsite`)
 - open het diagram
 - maak een nieuwe table `persoon`
 - open de table zodat je colommen kan toevoegen
