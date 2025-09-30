@@ -14,7 +14,7 @@ nooit meer query()
 ## stap 2
 
 - lees `https://www.php.net/manual/en/mysqli.quickstart.prepared-statements.php`
-- verander jou php zodat deze prepared statements gebruikt
+- verander jouw php zodat deze prepared statements gebruikt
 - check deze tips (want dit is wat gevoelige code ^^):
     - als je statement prepared is moet je eerst `execute()` gebruiken voordat je resultaten kan krijgen
     - $stmt heeft een get_result() object, daaruit komt een object wat je net zoals je result object kan gebruiken
@@ -35,4 +35,4 @@ nooit meer query()
 
 ## git
 
-commit je files naar je git repository voor de vak!
+commit je files naar je git repository voor het vak!
