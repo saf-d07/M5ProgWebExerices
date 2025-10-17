@@ -1,6 +1,6 @@
 ## git maken
 
-- ga naar githubj
+- ga naar github
 - maak een nieuwe repository met de naam:
     - M5ProgWeb
 
