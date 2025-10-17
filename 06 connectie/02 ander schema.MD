@@ -51,8 +51,13 @@
 
 ## oplossen   
 
-- pas in workbench onze gebruiker aan
+- bekijk in workbench onze gebruiker
+    - wij willen graag dat wij daar ook dbfirst met een select in zien staan
     > ![](img/newuser.PNG)
+- open oefening week 03 db users/2
+    - zoek daar de GRANT SQL in.
+        - die kan je gebruiken om m5proggebruiker rechten op het andere schema te geven
+            > let op je select moet dan ook naar dat schema wijzen!!
 
 - probeer het nogmaals!
     > ![](img/bordspel.PNG)

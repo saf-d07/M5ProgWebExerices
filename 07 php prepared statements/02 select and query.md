@@ -13,7 +13,7 @@
 > ![](img/showleerlingenall.PNG)
 
 - test je `gehacked.php`
-    - roep dus FindLeerling aan!
+    - roep dus ShowAllLeerlingen aan!
 > ![](img/leerlingdata.PNG)
 
 
@@ -23,8 +23,10 @@
 
 ```
 Kijk eens naar deze duckduckgo url:
->![](img/querystring.PNG)
+```
 
+>![](img/querystring.PNG)
+```
 dit is nadat ik gezocht heb.
 > duckduckgo maakt van mijn zoek `relaxing snes music` een querystring:
 > `https://duckduckgo.com/?q=relaxing+snes+music`
